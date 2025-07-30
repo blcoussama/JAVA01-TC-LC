@@ -1,4 +1,5 @@
 /home/blinuxoussama/DEV-Environement/java-dev/JAVA01/demo/src/main/java/com/example/App.java
-/home/blinuxoussama/DEV-Environement/java-dev/JAVA01/demo/src/main/java/com/tight/coupling/UserDatabase.java
-/home/blinuxoussama/DEV-Environement/java-dev/JAVA01/demo/src/main/java/com/tight/coupling/TightCouplingExample.java
-/home/blinuxoussama/DEV-Environement/java-dev/JAVA01/demo/src/main/java/com/tight/coupling/UserManager.java
+/home/blinuxoussama/DEV-Environement/java-dev/JAVA01/demo/src/main/java/com/loose/coupling/LooseCouplingExample.java
+/home/blinuxoussama/DEV-Environement/java-dev/JAVA01/demo/src/main/java/com/loose/coupling/UserDataProvider.java
+/home/blinuxoussama/DEV-Environement/java-dev/JAVA01/demo/src/main/java/com/loose/coupling/UserManager.java
+/home/blinuxoussama/DEV-Environement/java-dev/JAVA01/demo/src/main/java/com/loose/coupling/UserDatabaseProvider.java
